@@ -2,6 +2,5 @@
 
 <img src="https://github.com/anja-sunjic/Battery-Shop-UI/blob/master/HomeScreen.png?raw=true" width=600>
 <br>
-<img src="https://github.com/anja-sunjic/Battery-Shop-UI/blob/master/ServisNoviNalog.png?raw=true" width=600>
 <br>
 <img src="https://github.com/anja-sunjic/Battery-Shop-UI/blob/master/Prodaja.png?raw=true" width=600>
